@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Buy-Bye/static/css/main.36eb9347.css",
+    "main.js": "/Buy-Bye/static/js/main.1b4a777b.js",
+    "static/js/787.633816a4.chunk.js": "/Buy-Bye/static/js/787.633816a4.chunk.js",
+    "index.html": "/Buy-Bye/index.html",
+    "main.36eb9347.css.map": "/Buy-Bye/static/css/main.36eb9347.css.map",
+    "main.1b4a777b.js.map": "/Buy-Bye/static/js/main.1b4a777b.js.map",
+    "787.633816a4.chunk.js.map": "/Buy-Bye/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36eb9347.css",
+    "static/js/main.1b4a777b.js"
+  ]
+}
