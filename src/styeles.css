@@ -1,0 +1,32 @@
+/* styles.css */
+
+/* Add styles for small screens */
+@media screen and (max-width: 640px) {
+    /* Example: Modify the Navbar height for small screens */
+    .navbar {
+      height: 60px;
+    }
+  
+    /* Add more responsive styles as needed */
+  }
+  
+  /* Add styles for medium screens */
+  @media screen and (min-width: 641px) and (max-width: 1024px) {
+    /* Example: Modify the Navbar height for medium screens */
+    .navbar {
+      height: 80px;
+    }
+  
+    /* Add more responsive styles as needed */
+  }
+  
+  /* Add styles for large screens */
+  @media screen and (min-width: 1025px) {
+    /* Example: Modify the Navbar height for large screens */
+    .navbar {
+      height: 100px;
+    }
+  
+    /* Add more responsive styles as needed */
+  }
+  
